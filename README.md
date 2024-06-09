@@ -4,6 +4,8 @@
 
 [.dotfiles](https://github.com/DanWlker/.dotfiles)
 
+[kickstart.nvim](https://github.com/DanWlker/kickstart.nvim)
+
 ## Notes
 
 [Flutter Concepts](https://github.com/DanWlker/flutter_concepts)

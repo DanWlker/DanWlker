@@ -12,6 +12,8 @@
 
 [Learning The Shell](https://github.com/DanWlker/learning_the_shell)
 
+[Studying the GOpher](https://github.com/DanWlker/studying_the_GOpher)
+
 ## Contributions
 
 [VueTube](https://github.com/VueTubeApp/VueTube)

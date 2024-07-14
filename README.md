@@ -24,11 +24,11 @@
 
 [MyCTrace](https://github.com/DanWlker/MyCTrace): A Covid-19 health information and contact tracing mobile application
 
-[JMYBot](https://github.com/DanWlker/JMYBot): A Discord bot for playing youtube videos as music, with queue support
+[JMYBot](https://github.com/DanWlker/JMYBot): A Discord bot written in Python for playing youtube videos as music, with queue support
 
 [lunarcalgoog](https://github.com/DanWlker/lunarcalgoog): A Flutter application that allows you to record lunar birthdays and save them as recurring events in your google calendar
 
-[remind](https://github.com/DanWlker/remind): A terminal app that saves and shows todos depending on your project folder
+[remind](https://github.com/DanWlker/remind): A terminal app written in Go that saves and shows todos depending on your project folder
 
 ## Contributions
 

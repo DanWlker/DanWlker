@@ -33,3 +33,5 @@
 ## Contributions
 
 [VueTube](https://github.com/VueTubeApp/VueTube)
+
+[typioca](https://github.com/bloznelis/typioca)

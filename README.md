@@ -14,7 +14,17 @@
 
 [Studying the GOpher](https://github.com/DanWlker/studying_the_GOpher)
 
+## Contributions
+
+[VueTube](https://github.com/VueTubeApp/VueTube)
+
+[typioca](https://github.com/bloznelis/typioca)
+
 ## Projects
+
+[remind](https://github.com/DanWlker/remind): A terminal app written in Go that saves and shows todos depending on your project folder
+
+[dead_links_scraper](https://github.com/DanWlker/dead_links_scraper): A terminal app written in Go used to scrape dead links from a website
 
 [dart-json-serializable-helper](https://github.com/DanWlker/dart-json-serializable-helper): A VsCode extension that helps to generate boilerplate code for dart's @JsonSerializable library
 
@@ -27,11 +37,3 @@
 [JMYBot](https://github.com/DanWlker/JMYBot): A Discord bot written in Python for playing youtube videos as music, with queue support
 
 [lunarcalgoog](https://github.com/DanWlker/lunarcalgoog): A Flutter application that allows you to record lunar birthdays and save them as recurring events in your google calendar
-
-[remind](https://github.com/DanWlker/remind): A terminal app written in Go that saves and shows todos depending on your project folder
-
-## Contributions
-
-[VueTube](https://github.com/VueTubeApp/VueTube)
-
-[typioca](https://github.com/bloznelis/typioca)

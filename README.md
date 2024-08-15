@@ -22,9 +22,11 @@
 
 ## Projects
 
-[remind](https://github.com/DanWlker/remind): A terminal app written in Go that saves and shows todos depending on your project folder
+[url_shortener](https://github.com/DanWlker/url_shortener): A url shortener website written in Go, utilizing postges and redis as the database, and Docker compose for deployment
 
 [dead_links_scraper](https://github.com/DanWlker/dead_links_scraper): A terminal app written in Go used to scrape dead links from a website
+
+[remind](https://github.com/DanWlker/remind): A terminal app written in Go that saves and shows todos depending on your project folder
 
 [dart-json-serializable-helper](https://github.com/DanWlker/dart-json-serializable-helper): A VsCode extension that helps to generate boilerplate code for dart's @JsonSerializable library
 

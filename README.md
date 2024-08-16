@@ -22,7 +22,7 @@
 
 ## Projects
 
-[url_shortener](https://github.com/DanWlker/url_shortener): A url shortener website written in Go, utilizing Postges or Redis (switchable) as the database, and Docker compose for deployment and live hot reload development
+[url_shortener](https://github.com/DanWlker/url_shortener): A url shortener website written in Go, utilizing Postges or Redis (switchable) as the database, and Docker compose for prod deployment (with multistage build process) and live hot reload when in development
 
 [dead_links_scraper](https://github.com/DanWlker/dead_links_scraper): A terminal app written in Go used to scrape dead links from a website
 

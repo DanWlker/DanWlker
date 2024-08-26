@@ -20,6 +20,8 @@
 
 [typioca](https://github.com/bloznelis/typioca)
 
+[gci](https://github.com/daixiang0/gci)
+
 ## Projects
 
 [url_shortener](https://github.com/DanWlker/url_shortener): A url shortener website written in Go, utilizing Postges or Redis (switchable) as the database, and Docker compose for prod deployment (with multistage build process for a smaller image) and live hot reload when in development

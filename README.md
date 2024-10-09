@@ -24,6 +24,8 @@
 
 ## Projects
 
+[toolbox.nvim](https://github.com/DanWlker/toolbox.nvim): A neovim extension that allows running custom commands integrated with vim.ui.select, a toolbox of useful commands of sorts
+
 [url_shortener](https://github.com/DanWlker/url_shortener): A url shortener website written in Go, utilizing Postges or Redis (switchable) as the database, and Docker compose for prod deployment (with multistage build process for a smaller image) and live hot reload when in development
 
 [dead_links_scraper](https://github.com/DanWlker/dead_links_scraper): A terminal app written in Go used to recursively scrape dead links from a website, supports both parallel and sequential execution

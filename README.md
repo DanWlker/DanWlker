@@ -24,7 +24,7 @@
 
 ## Projects
 
-[toolbox.nvim](https://github.com/DanWlker/toolbox.nvim): A neovim extension that allows running custom commands integrated with vim.ui.select, a toolbox of useful commands of sorts
+[toolbox.nvim](https://github.com/DanWlker/toolbox.nvim): A neovim extension that allows running custom commands integrated with vim.ui.select, your very own toolbox of useful commands
 
 [url_shortener](https://github.com/DanWlker/url_shortener): A url shortener website written in Go, utilizing Postges or Redis (switchable) as the database, and Docker compose for prod deployment (with multistage build process for a smaller image) and live hot reload when in development
 

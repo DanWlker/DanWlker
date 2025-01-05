@@ -14,6 +14,8 @@
 
 [Studying the GOpher](https://github.com/DanWlker/studying_the_GOpher)
 
+[Making sense of K8s](https://github.com/DanWlker/making_sense_of_k8s)
+
 ## Contributions
 
 [VueTube](https://github.com/VueTubeApp/VueTube)

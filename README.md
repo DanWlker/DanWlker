@@ -24,6 +24,8 @@
 
 [gci](https://github.com/daixiang0/gci)
 
+[nvim-notify](https://github.com/rcarriga/nvim-notify)
+
 ## Projects
 
 [toolbox.nvim](https://github.com/DanWlker/toolbox.nvim): A neovim extension that allows running custom commands integrated with vim.ui.select, your very own toolbox of useful commands

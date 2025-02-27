@@ -28,6 +28,8 @@
 
 [nvim-notify](https://github.com/rcarriga/nvim-notify)
 
+[go.nvim](https://github.com/ray-x/go.nvim)
+
 ## Projects
 
 [toolbox.nvim](https://github.com/DanWlker/toolbox.nvim): A neovim extension that allows running custom commands integrated with vim.ui.select, your very own toolbox of useful commands

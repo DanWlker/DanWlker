@@ -16,6 +16,8 @@
 
 [Making sense of K8s](https://github.com/DanWlker/making_sense_of_k8s)
 
+[Dissecting Databases](https://github.com/DanWlker/dissecting_databases)
+
 ## Contributions
 
 [VueTube](https://github.com/VueTubeApp/VueTube)

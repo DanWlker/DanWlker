@@ -32,7 +32,7 @@
 
 ## Projects
 
-[tree-sitter-go_tags](https://github.com/DanWlker/tree-sitter-go_tags): Tree-sitter highlighting for go tags, to make it similar to how jetbrains goland highlights the struct tags
+[tree-sitter-go_tags](https://github.com/DanWlker/tree-sitter-go_tags): Tree-sitter grammar parser for go tags, to make it similar to how jetbrains goland highlights struct tags
 
 [toolbox.nvim](https://github.com/DanWlker/toolbox.nvim): A neovim extension that allows running custom commands integrated with vim.ui.select, your very own toolbox of useful commands
 

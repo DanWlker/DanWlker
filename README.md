@@ -30,6 +30,8 @@
 
 [go.nvim](https://github.com/ray-x/go.nvim)
 
+[rainbow_csv.nvim](https://github.com/cameron-wags/rainbow_csv.nvim)
+
 ## Projects
 
 [tree-sitter-go_tags](https://github.com/DanWlker/tree-sitter-go_tags): Tree-sitter grammar parser for go tags, allows golang struct tags in neovim to appear similar to jetbrains goland

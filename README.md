@@ -34,7 +34,7 @@
 
 ## Projects
 
-[asnbcli](https://github.com/DanWlker/asnbcli): A cli tool to help in buyeing Asnb funds
+[asnbcli](https://github.com/DanWlker/asnbcli): A cli tool to help buy Asnb funds
 
 [tree-sitter-go_tags](https://github.com/DanWlker/tree-sitter-go_tags): Tree-sitter grammar parser for go tags, allows golang struct tags in neovim to appear similar to jetbrains goland
 

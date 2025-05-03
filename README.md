@@ -34,6 +34,8 @@
 
 ## Projects
 
+[asnbcli](https://github.com/DanWlker/asnbcli): A cli tool to help in buyeing Asnb funds
+
 [tree-sitter-go_tags](https://github.com/DanWlker/tree-sitter-go_tags): Tree-sitter grammar parser for go tags, allows golang struct tags in neovim to appear similar to jetbrains goland
 
 [toolbox.nvim](https://github.com/DanWlker/toolbox.nvim): A neovim extension that allows running custom commands integrated with vim.ui.select, your very own toolbox of useful commands

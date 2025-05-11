@@ -4,7 +4,7 @@
 
 [.dotfiles](https://github.com/DanWlker/.dotfiles)
 
-[kickstart.nvim](https://github.com/DanWlker/kickstart.nvim)
+[kickstart.nvim](https://github.com/DanWlker/kickstart.nvim/tree/custom)
 
 ## Notes
 

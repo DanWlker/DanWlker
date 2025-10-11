@@ -34,6 +34,8 @@
 
 ## Projects
 
+[keysmith.nvim](https://github.com/DanWlker/keysmith.nvim): A neovim extension that allows searching for full keys in config / data languages i.e. json. toml, yaml
+
 [asnbcli](https://github.com/DanWlker/asnbcli): A cli tool to help buy Asnb funds
 
 [tree-sitter-go_tags](https://github.com/DanWlker/tree-sitter-go_tags): Tree-sitter grammar parser for go tags, allows golang struct tags in neovim to appear similar to jetbrains goland

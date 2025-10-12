@@ -34,7 +34,7 @@
 
 ## Projects
 
-[keysmith.nvim](https://github.com/DanWlker/keysmith.nvim): A neovim extension that allows searching for full keys in config / data languages i.e. json. toml, yaml
+[keysmith.nvim](https://github.com/DanWlker/keysmith.nvim): A neovim helper for navigating data/config languages like Json, Yaml, Toml etc.
 
 [asnbcli](https://github.com/DanWlker/asnbcli): A cli tool to help buy Asnb funds
 

@@ -4,7 +4,7 @@
 
 [.dotfiles](https://github.com/DanWlker/.dotfiles)
 
-[kickstart.nvim](https://github.com/DanWlker/kickstart.nvim/tree/tree-sitter-main)
+[nvim](https://github.com/DanWlker/nvim)
 
 ## Notes
 

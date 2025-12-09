@@ -1,6 +1,6 @@
 ## My Setup
 
-[Keymap](https://github.com/DanWlker/keymap)
+[keymap](https://github.com/DanWlker/keymap)
 
 [.dotfiles](https://github.com/DanWlker/.dotfiles)
 

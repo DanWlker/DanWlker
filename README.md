@@ -18,6 +18,8 @@
 
 [Dissecting Databases](https://github.com/DanWlker/dissecting_databases)
 
+[Keep your llms closer](https://github.com/DanWlker/keep-your-llms-closer)
+
 ## Contributions
 
 [VueTube](https://github.com/VueTubeApp/VueTube)

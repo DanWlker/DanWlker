@@ -61,3 +61,23 @@
 [JMYBot](https://github.com/DanWlker/JMYBot): A Discord bot written in Python for playing youtube videos as music, with queue support
 
 [lunarcalgoog](https://github.com/DanWlker/lunarcalgoog): A Flutter application that allows you to record lunar birthdays and save them as recurring events in your google calendar
+
+## Still maintained forks (because i use them)
+
+[DanWlker/nvim-jump](https://github.com/DanWlker/nvim-jump)
+
+\+ dimming behaviour when jumping
+
+\+ highlight next immediate jump
+
+\+ ability to land just before the character, works backwards
+
+[DanWlker/snacks.nvim](https://github.com/DanWlker/snacks.nvim)
+
+\+ ability to flatten key heirarchy when working with files like yaml. allows searching on full or partially matched keys
+
+[DanWlker/99](https://github.com/DanWlker/99)
+
+\+ charm crush as a provider
+
+

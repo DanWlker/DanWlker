@@ -70,7 +70,7 @@
 
 \+ highlight next immediate jump
 
-\+ ability to land just before the character, works backwards
+\+ ability to land just before the character (similar to f and t), works backwards as well
 
 [DanWlker/snacks.nvim](https://github.com/DanWlker/snacks.nvim)
 
@@ -79,5 +79,9 @@
 [DanWlker/99](https://github.com/DanWlker/99)
 
 \+ charm crush as a provider
+
+[DanWlker/ts-error-translator.nvim](https://github.com/DanWlker/ts-error-translator.nvim)
+
+\+ fix error translator not working for tsgo
 
 

@@ -76,10 +76,6 @@
 
 \+ ability to flatten key heirarchy when working with files like yaml. allows searching on full or partially matched keys
 
-[DanWlker/ts-error-translator](https://github.com/DanWlker/ts-error-translator.nvim)
-
-\+ fix for ts-go not working
-
 [DanWlker/ts-error-translator.nvim](https://github.com/DanWlker/ts-error-translator.nvim)
 
 \+ fix error translator not working for tsgo

@@ -76,9 +76,9 @@
 
 \+ ability to flatten key heirarchy when working with files like yaml. allows searching on full or partially matched keys
 
-[DanWlker/99](https://github.com/DanWlker/99)
+[DanWlker/ts-error-translator](https://github.com/DanWlker/ts-error-translator.nvim)
 
-\+ charm crush as a provider
+\+ fix for ts-go not working
 
 [DanWlker/ts-error-translator.nvim](https://github.com/DanWlker/ts-error-translator.nvim)
 

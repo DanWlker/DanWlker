@@ -74,7 +74,9 @@
 
 [DanWlker/snacks.nvim](https://github.com/DanWlker/snacks.nvim)
 
-\+ ability to flatten key heirarchy when working with files like yaml. allows searching on full or partially matched keys
+\+ ability to flatten key heirarchy when working with files like yaml. allows searching on full or partially matched keys (branch: flatten_lsp_symbols)
+
+\+ fix `keep_parents` ordering getting messed up when filtering (branch: keep_parents_ordering)
 
 [DanWlker/ts-error-translator.nvim](https://github.com/DanWlker/ts-error-translator.nvim)
 

@@ -36,6 +36,8 @@
 
 ## Projects
 
+[duckument.nvim](https://github.com/DanWlker/duckument.nvim): A neovim plugin that allows you to query a opened csv/tsv buffer directly. Along with a sql "fixer" that allows for shorter queries built on top of sqruff's lexer.
+
 [keysmith.nvim](https://github.com/DanWlker/keysmith.nvim): A neovim helper for navigating data/config languages like Json, Yaml, Toml etc.
 
 [asnbcli](https://github.com/DanWlker/asnbcli): A cli tool to help buy Asnb funds

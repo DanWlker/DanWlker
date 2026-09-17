@@ -84,4 +84,8 @@
 
 \+ fix error translator not working for tsgo
 
+[DanWlker/csvview.nvim](https://github.com/DanWlker/csvview.nvim)
+
+\+ fix: ui2 causing win too small error on large csv files (intermittently)
+
 

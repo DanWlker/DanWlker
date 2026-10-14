@@ -88,4 +88,8 @@
 
 \+ fix: ui2 causing win too small error on large csv files (intermittently)
 
+[DanWlker/caeslestia-shell](https://github.com/DanWlker/caelestia-shell)
+
+\+ Lite version, removed alot of stuff
+
 

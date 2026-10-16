@@ -36,7 +36,7 @@
 
 ## Projects
 
-[spoon](https://github.com/danwlker/spoon): A git TUI application aimed at reproducing the ease of use of [fork](https://git-fork.com)
+[spoon](https://github.com/danwlker/spoon): A git TUI application aimed at reproducing the ease of use of [fork](https://git-fork.com) & lazygit
 
 [duckument.nvim](https://github.com/DanWlker/duckument.nvim): A neovim plugin that allows you to query a opened csv/tsv buffer directly. Along with a sql "fixer" that allows for shorter queries built on top of sqruff's lexer.
 
